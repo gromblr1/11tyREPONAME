@@ -3,7 +3,7 @@
 title: WANNA BE A, BALLA !!!!
 description: Big ass troy !!!
 date: 2023-07-02
-tags: music, mm
+tags: music
 layout: layouts/post.njk
 ---
 
