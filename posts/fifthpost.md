@@ -3,7 +3,7 @@ title: This AINT SHIT !!!!
 description: This is a FUCK YEAAAA
 date: 2018-05-01
 tags: fuck
-  - another-tag
+  - anjother-tayg
 layout: layouts/post.njk
 ---En famille, entre amis, en couple ou en solo, venez partager un moment unique, dans un lieu unique et profitez d’une rencontre avec les meilleurs danseurs hip-hop du moment !
 
