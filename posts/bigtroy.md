@@ -1,4 +1,3 @@
-
 ---
 title: WANNA BE A, BALLA !!!!
 description: Big ass troy !!!
