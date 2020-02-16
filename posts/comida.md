@@ -28,4 +28,4 @@ Add the pasta back to the pot with the remaining butter, parmesan, and parsley. 
 Add the lemon juice before serving and serve while hot.
 
 ## RESULTS:
-"img src="https://www.spendwithpennies.com/wp-content/uploads/2019/08/Shrimp-Garlic-Pasta3-SpendWithPennies.jpg">
+<img src="https://www.spendwithpennies.com/wp-content/uploads/2019/08/Shrimp-Garlic-Pasta3-SpendWithPennies.jpg">
