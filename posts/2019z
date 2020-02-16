@@ -1,0 +1,10 @@
+---
+title: A 2019 post
+description: changed the date from 2018 to 2019
+date: 2019-05-01
+tags: fudge
+  - ack
+layout: layouts/post.njk
+---
+
+Camokskits foskits !!!
