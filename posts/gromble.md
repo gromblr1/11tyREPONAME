@@ -1,7 +1,7 @@
 ---
-title: The GROMBLE
-description: gromble is too funny
-date: 2020-05-01
+title: The GROMBLE, Aeon Flux, The Maxx... 
+description: All 19990's goodness.... and Liquid Television.
+date: 2020-02-17
 tags: fuckers
   - gromble
 layout: layouts/post.njk
