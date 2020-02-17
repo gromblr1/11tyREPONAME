@@ -1,7 +1,7 @@
 ---
 title: Skinwalker stories !
 description: I am telling you, you have NEVER heard of a terrifying story UNLESS you have heard the Navajo witch... .THE SKINWALKER.
-date: 2022-05-02
+date: 2000-05-02
 tags: ['vids', 'horror']
 layout: layouts/post.njk
 ---
