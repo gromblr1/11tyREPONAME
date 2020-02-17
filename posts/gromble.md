@@ -2,8 +2,7 @@
 title: The GROMBLE, Aeon Flux, The Maxx... 
 description: All 19990's goodness.... and Liquid Television.
 date: 2020-02-17
-tags: fuckers
-  - gromble
+tags: ['gromble', 'aahhh', 'maxx', 'aeon', 'liquid']
 layout: layouts/post.njk
 ---
 
