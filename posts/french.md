@@ -7,9 +7,11 @@ layout: layouts/post.njk
 ---
 
 ## NEGATIVES
-Je <b>ne suis pas</b> manger.
-Je <b>n'ai pas</b> quatorze ans. 
-Je veux <b>parler</b> anglais.
+Je <b>ne suis pas</b> manger. = I <b>am not</b> eating.
+Je <b>n'ai pas</b> quatorze ans. = I <b>am not</b> 14 years old.
 
-<b>Vous venez</b> d'Italie.
+## WANT
+Je veux <b>parler</b> anglais. = I want to <b>speak</b> English.
+
+<b>Vous venez</b> d'Italie. 
 
