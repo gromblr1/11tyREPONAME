@@ -2,7 +2,7 @@
 title: Candys little cooking comida shows
 description: yeppers
 date: 3019-05-02
-tags: ['cat', 'dog']
+tags: ['comida', 'mm']
 layout: layouts/post.njk
 ---
 
