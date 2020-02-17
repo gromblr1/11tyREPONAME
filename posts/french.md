@@ -7,5 +7,6 @@ layout: layouts/post.njk
 ---
 
 ## NEGATIVES
-Je ne suis pas manger.
+Je <b>ne suis pas</b> manger.
+Je veux <b>parler</b> anglais.
 
