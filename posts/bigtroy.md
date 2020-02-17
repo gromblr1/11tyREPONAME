@@ -1,7 +1,7 @@
 ---
 title: BIG TROY
 description: boggggg
-date: 2023-05-02
+date: 2000-05-02
 tags: ['music', 'mm']
 layout: layouts/post.njk
 ---
