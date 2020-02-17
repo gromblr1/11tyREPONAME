@@ -1,7 +1,7 @@
 ---
 title: This AINT SHIT !!!!
 description: This is a FUCK YEAAAA
-date: 2018-05-01
+date: 2000-05-01
 tags: fuck
   - anjother-tayg
 layout: layouts/post.njk
