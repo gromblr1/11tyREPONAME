@@ -6,4 +6,6 @@ tags: ['francais', 'french']
 layout: layouts/post.njk
 ---
 
- I will keep all of my french notes here from now on.
+## NEGATIVES
+Je ne suis pas manger.
+
