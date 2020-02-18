@@ -27,8 +27,9 @@ output would be..... <i>Name Steven age 33</i>
 
 <h3>for of loop to interate over an array</h3>
 EXAMPLE 3..........for (let num of nums) {console.log(num);}
-output would be..... <i>1 2 3</i>
+<br>output would be..... <i>1 2 3</i>
 
-FUNCTION is any code you want to use more than once.
+FUNCTION is any code you want to use more than once. <br>
+
 EXAMPLE............ function NAMEofFUNCTION (paramater1NAME,paramater2NAME) {return paramater1NAME + paramater2NAME}
-output would be..... <i>NAMEofFUNCTION(paramater1NAME,paramater2NAME)</i> 
+<br>output would be..... <i>NAMEofFUNCTION(paramater1NAME,paramater2NAME)</i> 
