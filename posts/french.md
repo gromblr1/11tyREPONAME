@@ -39,3 +39,12 @@ J'étudie de <b>huit à onze</b>. = I study from <b>8 to 11</b>.
 ## OTHER
 Quel age as-tu ? = How old are you ?
 Les quatre etudiants sont jeunes. = The 4 students are young.
+
+
+
+parler              écouter
+je parle            j'écoute
+tu parles           tu écoutes
+il / elle parle     il / elle écoute
+nous parlons        nous écoutons
+ils / elles parlent ils / elles écoutent
