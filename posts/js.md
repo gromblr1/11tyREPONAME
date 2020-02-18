@@ -30,4 +30,5 @@ EXAMPLE 3..........for (let num of nums) {console.log(num);}
 output would be..... <i>1 2 3</i>
 
 FUNCTION is any code you want to use more than once.
-EXAMPLE............ function NAMEofFUNCTION (paramater1NAME,paramater2NAME)
+EXAMPLE............ function NAMEofFUNCTION (paramater1NAME,paramater2NAME) {return paramater1NAME + paramater2NAME}
+output would be..... <i>NAMEofFUNCTION(paramater1NAME,paramater2NAME)</i> 
