@@ -78,3 +78,4 @@ I need(have to) work today.
 
 
 Adjectives of number come before the noun (first, second, third, etc.) = la premiere rue/the first street
+An infinitive is the most basic form of a verb. In English, infinitives are usually used with "to" (soitir/to leave, attendtre/to wait)
