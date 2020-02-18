@@ -17,3 +17,5 @@ Je veux <b>parler</b> anglais. = I want to <b>speak</b> English.
 
 Cette etudiante <b>vient</b> du Bresil. = This student <b>comes from</b> Brazil.
 Tu <b>viens</b> d'Angleterre ? (Venez-vous d'Angleterre ?)= Do you <b>come from</b> England ?
+
+Quel age as-tu ? = How old are you ?
