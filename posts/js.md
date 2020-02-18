@@ -34,3 +34,5 @@ FUNCTION is any code you want to use more than once. <br>
 
 EXAMPLE............ function NAMEofFUNCTION (paramater1NAME,paramater2NAME) {return paramater1NAME + paramater2NAME}
 <br>output would be..... <i>NAMEofFUNCTION(paramater1NAME,paramater2NAME)</i> 
+
+A method is a function that is associated with an object.
