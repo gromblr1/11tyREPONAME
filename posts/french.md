@@ -9,6 +9,7 @@ layout: layouts/post.njk
 ## NEGATIVES
 Je <b>ne suis pas</b> manger. = I <b>am not</b> eating.
 Je <b>n'ai pas</b> quatorze ans. = I <b>am not</b> 14 years old.
+Julia <b>n'est pas</a> blonde. = Julia <b>isn't</b> blonde.
 
 ## WANT
 Je veux <b>parler</b> anglais. = I want to <b>speak</b> English.
