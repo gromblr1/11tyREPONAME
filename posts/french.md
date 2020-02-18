@@ -35,24 +35,24 @@ Alice <b>vient</b> des États-Unis. = Alice <b>comes from</b> the United States.
 J'étudie de <b>huit à onze</b>. = I study from <b>8 to 11</b>.
 
 ## NUMBERS
-<b>J'ai treize ans. = I am 13 years old.</b>
-<b>He is 11 years old. = Il a onze ans.</b>
+<b>J'ai treize ans. = I am 13 years old.
+Il a onze ans. = He is 11 years old.</b>
 
 ## DIRECTION
 Je vais à gauche. = I'm going left.
 C'est à droite ? = Is it right ?
 Je dois aller a droite. = I have to go to the right.
-the first to the left. = la première à gauche
-YOu have to turn left. = Tu dois tourner a gauche
+la première à gauche= the first to the left.
+Tu dois tourner a gauche = YOu have to turn left. 
 
 
 ## SPATIAL
-<b>in front of</b> the car= <b>devant</b> la voiture
+<b>devant</b> la voiture = <b>in front of</b> the car
 
 
 ## OTHER
-
-Can you work here ?= Tu peux travailler ici ?
+C'est loin d'ici. = It's far from here.
+Tu peux travailler ici ? = Can you work here ?
 Ils aiment marcher dans Paris. = They like walking in Paris.
 Quel age as-tu ? = How old are you ?
 Les quatre etudiants sont jeunes. = The 4 students are young.
@@ -73,8 +73,7 @@ Masculine.................Feminine
 un pont dangereux.........une rue dangereuse
 
 
-Je dois travailler aujourd'hui.
-I need(have to) work today.
+Je dois travailler aujourd'hui. = I need(have to) work today.
 
 
 Adjectives of number come before the noun (first, second, third, etc.) = la premiere rue/the first street
