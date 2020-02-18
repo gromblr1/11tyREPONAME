@@ -39,6 +39,7 @@ J'étudie de <b>huit à onze</b>. = I study from <b>8 to 11</b>.
 <b>He is 11 years old. = Il a onze ans.</b>
 
 ## OTHER
+
 Can you work here ?= Tu peux travailler ici ?
 Ils aiment marcher dans Paris. = They like walking in Paris.
 Quel age as-tu ? = How old are you ?
@@ -60,3 +61,5 @@ un pont dangereux.........une rue dangereuse
 Je dois travailler aujourd'hui.
 I need(have to) work today.
 
+
+Adjectives of number come before the noun (first, second, third, etc.) = la premiere rue/the first street
