@@ -16,4 +16,7 @@ use LET, If you plan to change it later
 useCONST otherwise
 
 Arrays (lists).............. Objects (dictionaries)
-const arr = [1,2,3] ........ const obj = {name:"Steve", age: 33}
+const arr = [1,2,3] ........ const <font color=green>obj</font> = {<font color=red>name</font>:"Steve", age: 33}
+
+EXAMPLE............. console.log(<font color=green>obj</font>.<font color=red>name</font>);
+output would be..... <i>Steve</i>
