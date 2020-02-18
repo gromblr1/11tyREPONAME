@@ -34,6 +34,10 @@ Alice <b>vient</b> des États-Unis. = Alice <b>comes from</b> the United States.
 # FAR FROM
 C'est <b>loins de</b> mon hotel = It's <b>far from</b> my hotel.
 
+# AM GOING
+Je <b>vais au</b> zoo = I <b>am going to the</b> zoo.
+
+
 ## TIME
 J'étudie de <b>huit à onze</b>. = I study from <b>8 to 11</b>.
 
