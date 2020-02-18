@@ -5,6 +5,7 @@ date: 2020-02-18
 tags: ['javascript']
 layout: layouts/post.njk
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-I5S_zTwAc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Variables
 Primitives............. Compound Data
