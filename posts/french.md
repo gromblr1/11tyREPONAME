@@ -41,6 +41,8 @@ J'étudie de <b>huit à onze</b>. = I study from <b>8 to 11</b>.
 ## DIRECTION
 Je vais à gauche. = I'm going left.
 C'est à droite ? = Is it right ?
+the first to the left= la première à gauche
+
 
 ## SPATIAL
 <b>in front of</b> the car= <b>devant</b> la voiture
