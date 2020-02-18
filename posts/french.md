@@ -25,5 +25,8 @@ She <b>comes from</b> Italy. = Elle <b>vient</b> d'Italie.
 <b>Elles viennent</b> de France. = <b>They come</b> from France.
 Alice <b>vient</b> des États-Unis. = Alice <b>comes from</b> the United States.
 
+## TIME
+J'étudie de <b>huit à onze</b>. = I study from <b>8 to 11</b>.
+
 ## OTHER
 Quel age as-tu ? = How old are you ?
