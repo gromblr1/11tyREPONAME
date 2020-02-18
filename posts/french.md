@@ -24,7 +24,8 @@ Je <b>viens</b> du Bresil. = I <b>come from</b> Brazil.
 Tu <b>viens</b> d'Angleterre ? (Venez-vous d'Angleterre ?)= Do you <b>come from</b> England ?
 
 <b>Venez-vous</b> d'Italie. = You come from Italy. 
-She <b>comes from</b> Italy. = Elle <b>vient</b> d'Italie.
+<b>Nous venons</b> d'Italie.= <b>We come from</b> Italy.
+Elle <b>vient</b> d'Italie. = She <b>comes from</b> Italy.
 <b>Elles viennent</b> de France. = <b>They come</b> from France.
 Alice <b>vient</b> des États-Unis. = Alice <b>comes from</b> the United States.
 
