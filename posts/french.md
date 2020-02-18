@@ -33,3 +33,4 @@ J'étudie de <b>huit à onze</b>. = I study from <b>8 to 11</b>.
 
 ## OTHER
 Quel age as-tu ? = How old are you ?
+Les quatre etudiants sont jeunes. = The 4 students are young.
