@@ -57,6 +57,8 @@ Ils aiment marcher dans Paris. = They like walking in Paris.
 Quel age as-tu ? = How old are you ?
 Les quatre etudiants sont jeunes. = The 4 students are young.
 C'est un immeuble très intéressant. = It's a very interesting building.
+C'est loin de mon hôtel. = It's far from my hotel.
+
 
 
 
