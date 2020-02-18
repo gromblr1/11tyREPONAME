@@ -17,6 +17,8 @@ Je veux <b>parler</b> anglais. = I want to <b>speak</b> English.
 <b>Vous venez</b> d'Italie. 
 
 Cette etudiante <b>vient</b> du Bresil. = This student <b>comes from</b> Brazil.
+
+Je <b>viens</b> du Bresil. = I <b>come from</b> Brazil.
 Tu <b>viens</b> d'Angleterre ? (Venez-vous d'Angleterre ?)= Do you <b>come from</b> England ?
 
 <b>Elles viennent</b> de France. = <b>They come</b> from France.
