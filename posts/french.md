@@ -39,6 +39,7 @@ J'étudie de <b>huit à onze</b>. = I study from <b>8 to 11</b>.
 <b>He is 11 years old. = Il a onze ans.</b>
 
 ## OTHER
+Ils aiment marcher dans Paris. = They like walking in Paris.
 Quel age as-tu ? = How old are you ?
 Les quatre etudiants sont jeunes. = The 4 students are young.
 
