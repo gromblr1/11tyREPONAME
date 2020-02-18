@@ -40,6 +40,8 @@ J'étudie de <b>huit à onze</b>. = I study from <b>8 to 11</b>.
 
 ## DIRECTION
 Je vais à gauche. = I'm going left.
+C'est à droite ? = Is it right ?
+
 
 ## OTHER
 
