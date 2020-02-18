@@ -38,6 +38,9 @@ J'étudie de <b>huit à onze</b>. = I study from <b>8 to 11</b>.
 <b>J'ai treize ans. = I am 13 years old.</b>
 <b>He is 11 years old. = Il a onze ans.</b>
 
+## DIRECTION
+Je vais à gauche. = I'm going left.
+
 ## OTHER
 
 Can you work here ?= Tu peux travailler ici ?
