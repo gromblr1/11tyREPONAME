@@ -34,6 +34,7 @@ J'étudie de <b>huit à onze</b>. = I study from <b>8 to 11</b>.
 
 ## NUMBERS
 <b>J'ai treize ans. = I am 13 years old.</b>
+<b>He is 11 years old. = Il a onze ans.</b>
 
 ## OTHER
 Quel age as-tu ? = How old are you ?
