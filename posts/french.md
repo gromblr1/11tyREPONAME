@@ -59,8 +59,8 @@ Les quatre etudiants sont jeunes. = The 4 students are young.
 C'est un immeuble très intéressant. = It's a very interesting building.
 C'est loin de mon hôtel. = It's far from my hotel.
 
-
-
+## FEMININE USE CASE
+Ces routes sont dangereuses. = These roads are dangerous.
 
 parler.....................écouter
 je parle...................j'écoute
