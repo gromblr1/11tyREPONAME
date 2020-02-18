@@ -31,6 +31,9 @@ Elle <b>vient</b> d'Italie. = She <b>comes from</b> Italy.
 <b>Elles viennent</b> de France. = <b>They come</b> from France.
 Alice <b>vient</b> des États-Unis. = Alice <b>comes from</b> the United States.
 
+# FAR FROM
+C'est <b>loins de</b> mon hotel = It's <b>far from</b> my hotel.
+
 ## TIME
 J'étudie de <b>huit à onze</b>. = I study from <b>8 to 11</b>.
 
