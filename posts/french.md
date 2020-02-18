@@ -16,6 +16,8 @@ Julia <b>n'est pas</b> blonde. = Julia <b>isn't</b> blonde.
 
 ## WANT
 Je veux <b>parler</b> anglais. = I want to <b>speak</b> English.
+Tu veux <b>marcher</b> avec moi ? = Do you want to <b>walk</b> with me ?
+
 
 ## COME(S) FROM
 Cette etudiante <b>vient</b> du Bresil. = This student <b>comes from</b> Brazil.
@@ -51,4 +53,8 @@ ils / elles parlent........ils / elles écoutent
 
 Masculine.................Feminine
 un pont dangereux.........une rue dangereuse
+
+
+Je dois travailler aujourd'hui.
+I need(have to) work today.
 
