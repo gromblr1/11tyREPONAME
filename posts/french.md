@@ -1,7 +1,7 @@
 ---
 title: Ceci est une page francais.
 description: This does nothing.
-date: 2020-02-17 <a href="">test</a>
+date: 2020-02-17
 tags: ['francais', 'french']
 layout: layouts/post.njk
 ---
