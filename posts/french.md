@@ -20,6 +20,7 @@ Cette etudiante <b>vient</b> du Bresil. = This student <b>comes from</b> Brazil.
 Tu <b>viens</b> d'Angleterre ? (Venez-vous d'Angleterre ?)= Do you <b>come from</b> England ?
 
 <b>Elles viennent</b> de France. = <b>They come</b> from France.
+Alice <b>vient</b> des États-Unis. = Alice <b>comes from</b> the United States.
 
 #OTHER
 Quel age as-tu ? = How old are you ?
