@@ -14,7 +14,7 @@ Je <b>n'ai pas</b> quatorze ans. = I <b>am not</b> 14 years old.
 Je veux <b>parler</b> anglais. = I want to <b>speak</b> English.
 
 ## COME(S) FROM
-<b>Vous venez</b> d'Italie. 
+<b>venez-vous</b> d'Italie. = You come from Italy. 
 
 Cette etudiante <b>vient</b> du Bresil. = This student <b>comes from</b> Brazil.
 
