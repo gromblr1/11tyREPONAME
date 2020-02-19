@@ -43,6 +43,9 @@ Je <b>vais au</b> zoo = I <b>am going to the</b> zoo.
 <b>Nous allons</b> l'aeroport. = <b>We are going</b> to the airport.
 <b>We go to</b> work by bus. = <b>Nous allons au</b> travail en bus.
 
+# HAVE TO GO TO
+I<b> have to go to</b> the hotel. = Je <b>bdois aller à</b> l'hôtel.
+
 
 ## TIME
 J'étudie de <b>huit à onze</b>. = I study from <b>8 to 11</b>.
