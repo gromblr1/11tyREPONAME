@@ -11,7 +11,7 @@ Je <b>ne suis pas</b> manger. = I <b>am not</b> eating.
 Je <b>n'ai pas</b> quatorze ans. = I <b>am not</b> 14 years old.
 Julia <b>n'est pas</b> blonde. = Julia <b>isn't</b> blonde.
 <b>Je ne vais pas</b> bien. = <b>I'm not</b> doing well.
-<b>bIt's not</b> important. = <b>Ce n'est pas</b> important.
+<b>Ce n'est pas</b> important. = <b>bIt's not</b> important.
 
 
 
@@ -41,7 +41,7 @@ Je <b>vais au</b> zoo = I <b>am going to the</b> zoo.
 
 # WE ARE GOING / WE GO
 <b>Nous allons</b> l'aeroport. = <b>We are going</b> to the airport.
-<b>We go to</b> work by bus. = <b>Nous allons au</b> travail en bus.
+<b>Nous allons au</b> travail en bus. = <b>We go to</b> work by bus.
 
 # HAVE TO GO TO
 I<b> have to go to</b> the hotel. = Je <b>bdois aller à</b> l'hôtel.
@@ -64,6 +64,8 @@ Tu dois tourner a gauche = YOu have to turn left.
 
 ## SPATIAL
 <b>devant</b> la voiture = <b>in front of</b> the car
+Je suis <b>devant</b> l'hôtel. = I am <b>in front of</b> the hotel.
+
 
 
 ## OTHER
