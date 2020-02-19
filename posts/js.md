@@ -23,16 +23,17 @@ useCONST otherwise
 
 Arrays (lists).............. Objects (dictionaries)
 const arr = [1,2,3] ........ const <font color=green>obj</font> = {<font color=red>name</font>:"Steve", age: 33}
-
-EXAMPLE............. console.log(<font color=green>obj</font>.<font color=red>name</font>);
 <hr>
+EXAMPLE............. console.log(<font color=green>obj</font>.<font color=red>name</font>);
+
 `Steve`
+<hr>
 
 <h3>for in loop to interate over an object</h3>
 EXAMPLE 2...........for (let key in obj) {console.log(key, obj[key]);}
 <hr>
 `Name Steven age 33`
-
+<hr>
 <h3>for of loop to interate over an array</h3>
 EXAMPLE 3..........for (let num of nums) {console.log(num);}
 <br>output would be..... <i>1 2 3</i>
