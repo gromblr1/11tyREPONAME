@@ -6,12 +6,19 @@ tags: ['javascript']
 layout: layouts/post.njk
 ---
 
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
 
-| Tables        | Are           | Cool  |
+
+| A.R.M        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| The Gromble   | right-aligned | $1600 |
+| Krumm         | centered      |   $12 |
+| Ickis         | are neat      |    $1 |
 
 There must be at least 3 dashes separating each header cell.
 The outer pipes (|) are optional, and you don't need to make the 
