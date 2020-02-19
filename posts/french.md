@@ -11,6 +11,8 @@ Je <b>ne suis pas</b> manger. = I <b>am not</b> eating.
 Je <b>n'ai pas</b> quatorze ans. = I <b>am not</b> 14 years old.
 Julia <b>n'est pas</b> blonde. = Julia <b>isn't</b> blonde.
 <b>Je ne vais pas</b> bien. = <b>I'm not</b> doing well.
+<b>bIt's not</b> important. = <b>Ce n'est pas</b> important.
+
 
 
 
