@@ -11,14 +11,17 @@
   </head>
   <body>
     <header>
-    <img src="https://vignette.wikia.nocookie.net/villains/images/6/66/RealMonsters3.png/revision/latest?cb=20150310214609" height=50>
+    
       <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
 
       {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
-      <ul class="nav"> fesk
-      {%- for entry in collections.all | eleventyNavigation %} klask
+      <ul class="nav"> 
+      
+      <img src="https://vignette.wikia.nocookie.net/villains/images/6/66/RealMonsters3.png/revision/latest?cb=20150310214609" height=99>
+      
+      {%- for entry in collections.all | eleventyNavigation %} 
         <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
-    nollllll  {%- endfor %} <a href="https://poolofelders.tumblr.com">Tumblr</a>
+      {%- endfor %} <a href="https://poolofelders.tumblr.com">Tumblr</a>
       </ul>
     </header>
 
