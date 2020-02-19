@@ -45,7 +45,7 @@ Je <b>vais au</b> zoo = I <b>am going to the</b> zoo.
 <b>Nous allons au</b> travail en bus. = <b>We go to</b> work by bus.
 
 # HAVE TO GO TO
-I<b> have to go to</b> the hotel. = Je <b>bdois aller à</b> l'hôtel.
+I<b> have to go to</b> the hotel. = Je <b>dois aller à</b> l'hôtel.
 
 # CLOSE BY/NEAR BY
 Je veux habiter <b>près</b> du métro. = I want to live <b>close by</b> the subway,
@@ -81,6 +81,7 @@ Je suis <b>devant</b> l'hôtel. = I am <b>in front of</b> the hotel.
 
 
 ## OTHER
+Le fromage est <b>en ville.</b> = The cheese is <b>in the city.</b>
 Nous voulons visiter l'eglise de cette petit ville. = We want to visit the church in this small city.
 C'est loin d'ici. = It's far from here.
 Tu peux travailler ici ? = Can you work here ?
