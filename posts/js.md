@@ -7,28 +7,21 @@ layout: layouts/post.njk
 ---
 
 
-<html>
-  <body>
-    <script src="https://cdn.jsdelivr.net/npm/mermaid@8.4.0/dist/mermaid.min.js"></script>
-    <script>mermaid.initialize({startOnLoad:true});</script>
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
-    Here is one mermaid diagram:
-    <div class="mermaid">
-      graph TD
-      A[Client] --> B[Load Balancer]
-      B --> C[Server1]
-      B --> D[Server2]
-    </div>
+There must be at least 3 dashes separating each header cell.
+The outer pipes (|) are optional, and you don't need to make the 
+raw Markdown line up prettily. You can also use inline Markdown.
 
-    And here is another:
-    <div class="mermaid">
-      graph TD
-      A[Client] -->|tcp_123| B(Load Balancer)
-      B -->|tcp_456| C[Server1]
-      B -->|tcp_456| D[Server2]
-    </div>
-  </body>
-</html>
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 
 <a href="https://sqlbolt.com/">SQL Bolt</a>
 <a href="http://jsbin.com/?html,console,output">JS Bin</a>
@@ -51,14 +44,14 @@ const arr = [1,2,3] ........ const <font color=green>obj</font> = {<font color=r
 <hr>
 EXAMPLE............. console.log(<font color=green>obj</font>.<font color=red>name</font>);
 
->`Steve`
+> Steve
 <hr>
 
 <h3>for in loop to interate over an object</h3>
 <hr>
 EXAMPLE 2...........for (let key in obj) {console.log(key, obj[key]);};
 
->`Name Steven age 33`
+> ```Name Steven age 33```
 <hr>
 
 <h3>for of loop to interate over an array</h3>
