@@ -59,7 +59,8 @@ Je vais à gauche. = I'm going left.
 C'est à droite ? = Is it right ?
 Je dois aller a droite. = I have to go to the right.
 la première à gauche= the first to the left.
-Tu dois tourner a gauche = YOu have to turn left. 
+Tu dois tourner a gauche = You have to turn left. 
+Tu dois tourner à droite. = You have to turn left.
 
 
 ## SPATIAL
