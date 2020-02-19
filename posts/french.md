@@ -39,8 +39,10 @@ C'est <b>loins de</b> mon hotel = It's <b>far from</b> my hotel.
 # AM GOING
 Je <b>vais au</b> zoo = I <b>am going to the</b> zoo.
 
-# WE ARE GOING
+# WE ARE GOING / WE GO
 <b>Nous allons</b> l'aeroport. = <b>We are going</b> to the airport.
+<b>We go to</b> work by bus. = <b>Nous allons au</b> travail en bus.
+
 
 ## TIME
 J'étudie de <b>huit à onze</b>. = I study from <b>8 to 11</b>.
