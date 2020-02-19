@@ -15,9 +15,9 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: tahoma;
+  font-family: system-ui, sans-serif;
   color: var(--darkgray);
-  background-color: var(--beige);
+  background-color: #edffe6;
 }
 p:last-child {
   margin-bottom: 0;
