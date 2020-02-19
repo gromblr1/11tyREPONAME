@@ -28,8 +28,8 @@ EXAMPLE............. console.log(<font color=green>obj</font>.<font color=red>na
 `<i>Steve</i>`
 
 <h3>for in loop to interate over an object</h3>
-EXAMPLE 2...........for (let key in obj) {console.log(key, obj[key]);}
-`Name Steven age 33`
+EXAMPLE 2...........for (let key in obj) {console.log(key, obj[key]);};
+`<i>Name Steven age 33</i>`
 
 <h3>for of loop to interate over an array</h3>
 EXAMPLE 3..........for (let num of nums) {console.log(num);}
