@@ -11,7 +11,8 @@ Je <b>ne suis pas</b> manger. = I <b>am not</b> eating.
 Je <b>n'ai pas</b> quatorze ans. = I <b>am not</b> 14 years old.
 Julia <b>n'est pas</b> blonde. = Julia <b>isn't</b> blonde.
 <b>Je ne vais pas</b> bien. = <b>I'm not</b> doing well.
-<b>Ce n'est pas</b> important. = <b>bIt's not</b> important.
+<b>Ce n'est pas</b> important. = <b>It's not</b> important.
+<b>Ce n'est pas</b> dangereux. = <b>It is not</b> dangerous.
 
 
 
@@ -49,6 +50,10 @@ I<b> have to go to</b> the hotel. = Je <b>bdois aller à</b> l'hôtel.
 # CLOSE BY/NEAR BY
 Je veux habiter <b>près</b> du métro. = I want to live <b>close by</b> the subway,
 
+# CLOSE TO
+<b>près de</b> l'école = <b>close to</b> the school
+
+
 ### ARTICLES
 Singular masculine: du (de l’)
 Singular Feminine: de la (de l’)
@@ -76,6 +81,7 @@ Je suis <b>devant</b> l'hôtel. = I am <b>in front of</b> the hotel.
 
 
 ## OTHER
+Nous voulons visiter l'eglise de cette petit ville. = We want to visit the church in this small city.
 C'est loin d'ici. = It's far from here.
 Tu peux travailler ici ? = Can you work here ?
 Ils aiment marcher dans Paris. = They like walking in Paris.
