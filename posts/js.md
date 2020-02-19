@@ -26,14 +26,14 @@ const arr = [1,2,3] ........ const <font color=green>obj</font> = {<font color=r
 <hr>
 EXAMPLE............. console.log(<font color=green>obj</font>.<font color=red>name</font>);
 
-`Steve`
+>`Steve`
 <hr>
 
 <h3>for in loop to interate over an object</h3>
 <hr>
 EXAMPLE 2...........for (let key in obj) {console.log(key, obj[key]);};
 
-`Name Steven age 33`
+>`Name Steven age 33`
 <hr>
 
 <h3>for of loop to interate over an array</h3>
