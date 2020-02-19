@@ -5,7 +5,7 @@ date: 2020-02-17
 tags: ['francais', 'french']
 layout: layouts/post.njk
 ---
-
+<a href="https://grammar.collinsdictionary.com/us/french-easy-learning/the-partitive-article-du-de-la-de-l-and-des"> french grammar articles</a>
 ## NEGATIVES
 Je <b>ne suis pas</b> manger. = I <b>am not</b> eating.
 Je <b>n'ai pas</b> quatorze ans. = I <b>am not</b> 14 years old.
