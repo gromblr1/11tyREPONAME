@@ -1,14 +1,15 @@
 ---
-title: CSS
+title: CSS and Markdown
 description: what do
 date: 2020-02-18
-tags: ['css', 'webdev']
+tags: ['css', 'webdev', 'markdown']
 layout: layouts/post.njk
 ---
 
 
+[Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Super useful")
 
-
+------------------------------------------------------
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 [You can use numbers for reference-style link definitions][1]
