@@ -8,6 +8,7 @@ layout: layouts/post.njk
 
 
 [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Super useful")
+[CSS Tutorials from W3Schools](https://www.w3schools.com/css/css3_borders.asp)
 
 ------------------------------------------------------
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
