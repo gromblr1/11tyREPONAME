@@ -1,5 +1,5 @@
 ---
-title: Ceci est une page francais.
+title: Cette est une page francais.
 description: This does nothing.
 date: 2020-02-17
 tags: ['francais', 'french']
