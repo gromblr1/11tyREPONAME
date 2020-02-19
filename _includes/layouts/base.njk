@@ -17,7 +17,6 @@
       {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
       <ul class="nav"> 
       
-      <img src="https://vignette.wikia.nocookie.net/villains/images/6/66/RealMonsters3.png/revision/latest?cb=20150310214609" height=99>
       
       {%- for entry in collections.all | eleventyNavigation %} 
         <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
@@ -35,7 +34,10 @@
       {{ content | safe }}
     </main>
 
-    <footer></footer>
+    <footer>
+    
+      <img src="https://img.sharetv.com/shows/characters/large/aaahh_real_monsters.the_gromble.jpg" height=99>
+    </footer>
 
     <!-- Current page: {{ page.url | url }} -->
   </body>
