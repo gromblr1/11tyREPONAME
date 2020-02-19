@@ -25,7 +25,7 @@ Arrays (lists).............. Objects (dictionaries)
 const arr = [1,2,3] ........ const <font color=green>obj</font> = {<font color=red>name</font>:"Steve", age: 33}
 
 EXAMPLE............. console.log(<font color=green>obj</font>.<font color=red>name</font>);
-output would be..... <i>Steve</i>
+output would be..... '<i>Steve</i>'
 
 <h3>for in loop to interate over an object</h3>
 EXAMPLE 2...........for (let key in obj) {console.log(key, obj[key]);}
