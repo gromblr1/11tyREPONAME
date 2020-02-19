@@ -6,12 +6,6 @@ tags: ['javascript']
 layout: layouts/post.njk
 ---
 
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
 
 
 | A.R.M        | Are           | Cool  |
