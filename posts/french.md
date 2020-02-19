@@ -46,6 +46,12 @@ Je <b>vais au</b> zoo = I <b>am going to the</b> zoo.
 # HAVE TO GO TO
 I<b> have to go to</b> the hotel. = Je <b>bdois aller à</b> l'hôtel.
 
+# CLOSE BY/NEAR BY
+Je veux habiter <b>près</b> du métro. = I want to live <b>close by</b> the subway,
+
+### ARTICLES
+Singular masculine: du (de l’)
+Singular Feminine: de la (de l’)
 
 ## TIME
 J'étudie de <b>huit à onze</b>. = I study from <b>8 to 11</b>.
