@@ -2,7 +2,7 @@
 title: Javascripting.
 description: This does nothing.
 date: 2020-02-18
-tags: ['javascript']
+tags: ['javascript', 'webdev']
 layout: layouts/post.njk
 ---
 
