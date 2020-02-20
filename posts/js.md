@@ -47,4 +47,9 @@ It is conventional in Ruby to have '?' at the end of the method if that method r
 
 ### Boolean expressions
 > name == "Bob"  
+
+#### Is age less than or equal to 35 ?
 > age <= 35  
+
+#### Is age greater than or equal to 23 and name is 'Bob' OR 'Jill' ?
+> age >= 23 && (name == 'Bob' || name == 'Jill')
