@@ -54,9 +54,14 @@ Je veux habiter **près** du métro. = I want to live **close by** the subway.
 
 ## ARE THESE  YOUR
 Alice et Paul, **ce sont vos** fils ? = Alice and Paul, **Is that your** son ?  
+Paul et Marie, **ce sont vos** filles ? = Paul and Marie, are these your daughters ?
 
 ## VOUS (plural you)
 **Vous allez** au travail ? = **Are you going** to work?  
+
+## Vous voulez (formal "Do you want)
+Paul et Marie, **vous voulez** des pommes ? = Paul and Marie, **do you want** some apples ?
+
 
 ## Difference between ce & ces
 Ce means "this" and "ces" means these only when ce/ces are articles before a noun.  
