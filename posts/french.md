@@ -5,7 +5,7 @@ date: 2020-02-17
 tags: ['francais', 'french']
 layout: layouts/post.njk
 ---
-<a href="https://grammar.collinsdictionary.com/us/french-easy-learning/the-partitive-article-du-de-la-de-l-and-des"> french grammar articles</a>
+[french grammar articles]
 
 ## NEGATIVES
 Je **ne suis pas** manger. = I **am not** eating.  
@@ -15,7 +15,7 @@ Julia **n'est pas** blonde. = Julia **isn't** blonde.
 **Ce n'est pas** important. = **It's not** important.  
 **Ce n'est pas** dangereux. = **It is not** dangerous.  
 
-testos
+
 ## WANT
 Je veux **parler** anglais. = I want to **speak** English.  
 Tu veux **marcher** avec moi ? = Do you want to **walk** with me ?  
@@ -65,6 +65,9 @@ Paul et Marie, **ce sont vos** filles ? = Paul and Marie, are these your daughte
 
 ## Vous voulez (formal "Do you want)
 Paul et Marie, **vous voulez** des pommes ? = Paul and Marie, **do you want** some apples ?  
+
+## Vous etes (plural you are)
+Alice et Paul, **vous êtes** anglais ? = ALice and Paul, **are you** English ?
 
 ## -ent
 **Les Français prennent** un café tous les jours. = **The French have** coffee every day.
@@ -143,3 +146,5 @@ Je dois travailler aujourd'hui. = I need(have to) work today.
 
 Adjectives of number come before the noun (first, second, third, etc.) = la premiere rue/the first street
 An infinitive is the most basic form of a verb. In English, infinitives are usually used with "to" (soitir/to leave, attendtre/to wait)
+
+[french grammar articles]: https://grammar.collinsdictionary.com/us/french-easy-learning/the-partitive-article-du-de-la-de-l-and-des
