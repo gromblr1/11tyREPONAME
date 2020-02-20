@@ -56,6 +56,10 @@ Je veux habiter **près** du métro. = I want to live **close by** the subway.
 Alice et Paul, **ce sont vos** fils ? = Alice and Paul, **Is that your** son ?  
 Paul et Marie, **ce sont vos** filles ? = Paul and Marie, are these your daughters ?
 
+## Avez-vous
+**Avez-vous** une tele ? = **Do you have** a TV ?
+**Allez-vous** au cafe ? = **Are you going** to the cafe ?   
+
 ## VOUS (plural you)
 **Vous allez** au travail ? = **Are you going** to work?  
 **Vous allez** à la boulangerie tous les jours ? = **Do you go** to the bakery every day ?  
@@ -63,6 +67,8 @@ Paul et Marie, **ce sont vos** filles ? = Paul and Marie, are these your daughte
 **Vous prenez** le petit déjeuner ? = **Are you having** breakfast ?  
 Anna et Martin, **vous travaillez** ? = Anna and Martin, **do you work** ?  
 ALice et Paul, **vous parlez** anglais ? = Alice and Paul, **do you speak** English?  
+**Vous lisez** des livres ? = **Do you read** books ?  
+**Vous avez** une maison ? = **Do you have** a house ?  
 
 ## Vous voulez (formal "Do you want)
 Paul et Marie, **vous voulez** des pommes ? = Paul and Marie, **do you want** some apples ?  
@@ -70,8 +76,21 @@ Paul et Marie, **vous voulez** des pommes ? = Paul and Marie, **do you want** so
 ## Vous etes (plural you are)
 Alice et Paul, **vous êtes** anglais ? = ALice and Paul, **are you** English ?
 
-## Votre and Vos
-votre = YOUR (plural people) vos = YOUR (plural objects)
+## Votre (plural YOUR people) and Vos (plural YOUR objects)
+Anna et Martin, **ce sont vos** amis ? = Anna and Martin, **are these your** friends?  
+
+
+**J'ai votre** télé. = **I have your** TV.
+Marc and Julia, **c'est votre** fils ? = Marc and Julia, **is this your** son ?
+
+## Notre (plural OUR people) and Nos (plural OUR objects)
+**nos amies** Charlotte et Alice = **our friends** Charlotte and Alice  
+notre amie = our friend  
+mon ami Louis - our friend Louis  
+
+
+## son (his)
+
 
 ## -ent
 **Les Français prennent** un café tous les jours. = **The French have** coffee every day.
@@ -110,6 +129,10 @@ Je suis **devant** l'hôtel. = I am **in front of** the hotel.
 
 
 ## OTHER
+Elle est mariee. = She is married.  
+une femme mariee = a married woman  
+un homme marie = a married man  
+Julia et Marie sont mariées. = Julia and Marie are married.  
 **Les Français aiment** les croissants. = **The French like** croissants.  
 Le fromage est **en ville.** = The cheese is **in the city.**  
 Nous voulons visiter l'eglise de cette petit ville. = We want to visit the church in this small city.  
