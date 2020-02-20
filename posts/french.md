@@ -111,6 +111,16 @@ il / elle parle............il / elle écoute
 nous parlons...............nous écoutons  
 ils / elles parlent........ils / elles écoutent  
 
+--- | ---
+--- | ---
+parler | ecouter 
+je parle | j'ecoute
+tu parles | tu ecoutes
+il/elle parle | il/elle ecoute
+nous parlons | nous ecoutons
+ils/elles parlent | ils/elles ecountent
+
+
 Masculine.................Feminine  
 un pont dangereux.........une rue dangereuse  
 
