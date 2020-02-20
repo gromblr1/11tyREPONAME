@@ -65,3 +65,24 @@ It is conventional in Ruby to have '?' at the end of the method if that method r
      "#{number} is negative"  
    end          
 end
+
+#### If number is 0
+
+> def check_sign(number)
+  if number == 0
+    number
+  elsif number > 0
+    "#{number} is positive"
+  else
+    "#{number} is negative"
+  end        
+end    
+
+##### basically ^^
+>           if 
+            # do this and that
+          elsif 
+            # something different.
+          else
+            # none of the above worked. this is where it finally ends.
+          end
