@@ -58,6 +58,7 @@ Paul et Marie, **ce sont vos** filles ? = Paul and Marie, are these your daughte
 
 ## VOUS (plural you)
 **Vous allez** au travail ? = **Are you going** to work?  
+**Vous allez** à la boulangerie tous les jours ? = **Do you go** to the bakery every day ?
 
 ## Vous voulez (formal "Do you want)
 Paul et Marie, **vous voulez** des pommes ? = Paul and Marie, **do you want** some apples ?
@@ -96,6 +97,7 @@ Je suis **devant** l'hôtel. = I am **in front of** the hotel.
 
 
 ## OTHER
+**Les Français aiment** les croissants. = **The French like** croissants.
 Le fromage est **en ville.** = The cheese is **in the city.**  
 Nous voulons visiter l'eglise de cette petit ville. = We want to visit the church in this small city.  
 C'est loin d'ici. = It's far from here.  
