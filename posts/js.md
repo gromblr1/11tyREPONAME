@@ -33,5 +33,11 @@ It is conventional in Ruby to have '?' at the end of the method if that method r
 > "I should look into your problem when I get time".gsub('I','We')
 
 ### Replace all vowels in string with the number 1
-> 'RubyMonk'.gsub(/[aeiou]/,'1')
+> 'RubyMonk'.gsub(/[aeiou]/,'1')  
 > output: **R1byM1nk**
+
+
+### Replace all capital letters in string with the number 0
+> 'RubyMonk Is Pretty Brilliant'.gsub(/[RMIPB]/, '0')  
+> output: **0uby0onk 0s 0retty 0rilliant**
+
