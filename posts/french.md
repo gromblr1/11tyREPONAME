@@ -14,8 +14,7 @@ Julia **n'est pas** blonde. = Julia **isn't** blonde.
 **Ce n'est pas** important. = **It's not** important.
 **Ce n'est pas** dangereux. = **It is not** dangerous.
 
-
-
+test
 
 ## WANT
 Je veux **parler** anglais. = I want to **speak** English.
@@ -53,7 +52,7 @@ Je veux habiter **près** du métro. = I want to live **close by** the subway,
 # CLOSE TO
 **près de** l'école = **close to** the school
 
-# IS THAT YOUR
+# ARE THESE  YOUR
 Alice et Paul, **ce sont vos** fils ? = Alice and Paul, **Is that your** son ?
 
 ### ARTICLES
