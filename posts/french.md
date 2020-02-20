@@ -17,7 +17,6 @@ Julia **n'est pas** blonde. = Julia **isn't** blonde.
 
 
 ## WANT
-
 Je veux **parler** anglais. = I want to **speak** English.
 Tu veux **marcher** avec moi ? = Do you want to **walk** with me ?
 
