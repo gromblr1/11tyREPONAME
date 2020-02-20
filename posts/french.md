@@ -59,6 +59,8 @@ Paul et Marie, **ce sont vos** filles ? = Paul and Marie, are these your daughte
 ## VOUS (plural you)
 **Vous allez** au travail ? = **Are you going** to work?  
 **Vous allez** à la boulangerie tous les jours ? = **Do you go** to the bakery every day ?
+**Vous achetez** des oranges ? = **Do you buy** oranges ?
+
 
 ## Vous voulez (formal "Do you want)
 Paul et Marie, **vous voulez** des pommes ? = Paul and Marie, **do you want** some apples ?  
