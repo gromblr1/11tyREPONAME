@@ -31,3 +31,7 @@ It is conventional in Ruby to have '?' at the end of the method if that method r
 
 ### Replacing substring (all occurences )
 > "I should look into your problem when I get time".gsub('I','We')
+
+### Replace all vowels in string with the number 1
+> 'RubyMonk'.gsub(/[aeiou]/,'1')
+> output: **R1byM1nk**
