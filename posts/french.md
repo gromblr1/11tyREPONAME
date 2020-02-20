@@ -8,8 +8,8 @@ layout: layouts/post.njk
 <a href="https://grammar.collinsdictionary.com/us/french-easy-learning/the-partitive-article-du-de-la-de-l-and-des"> french grammar articles</a>
 
 ## NEGATIVES
-Je **ne suis pas** manger. = I **am not** eating.
-Je **n'ai pas** quatorze ans. = I **am not** 14 years old.
+Je **ne suis pas** manger. = I **am not** eating. 
+Je **n'ai pas** quatorze ans. = I **am not** 14 years old. 
 Julia **n'est pas** blonde. = Julia **isn't** blonde.
 **Je ne vais pas** bien. = **I'm not** doing well.
 **Ce n'est pas** important. = **It's not** important.
