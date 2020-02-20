@@ -61,7 +61,10 @@ Paul et Marie, **ce sont vos** filles ? = Paul and Marie, are these your daughte
 **Vous allez** à la boulangerie tous les jours ? = **Do you go** to the bakery every day ?
 
 ## Vous voulez (formal "Do you want)
-Paul et Marie, **vous voulez** des pommes ? = Paul and Marie, **do you want** some apples ?
+Paul et Marie, **vous voulez** des pommes ? = Paul and Marie, **do you want** some apples ?  
+
+## -ent
+**Les Français prennent** un café tous les jours. = **The French have** coffee every day.
 
 
 ## Difference between ce & ces
