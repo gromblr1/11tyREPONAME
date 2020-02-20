@@ -17,5 +17,17 @@ It is conventional in Ruby to have '?' at the end of the method if that method r
 ### String: lowercase to uppercase etc, swap cases and split
 > puts 'i am in lowercase'.upcase  
 > 'This is Mixed CASE'.downcase  
-> "ThiS iS A vErY ComPlEx SenTeNcE".swapcase
+> "ThiS iS A vErY ComPlEx SenTeNcE".swapcase  
 > 'Fear is the path to the dark side'.split
+
+### Concatenating Strings (3 ways to do it)
+> 'Ruby' + 'Monk'  
+> "Ruby".concat("Monk")  
+> "Ruby" << "Monk"  
+
+### Replacing substring (first occurence only)
+> "I should look into your problem when I get time".sub('I','We')  
+> output: **We should look into your problem when I get time**
+
+### Replacing substring (all occurences )
+> "I should look into your problem when I get time".gsub('I','We')
