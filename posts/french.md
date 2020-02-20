@@ -58,6 +58,12 @@ Alice et Paul, **ce sont vos** fils ? = Alice and Paul, **Is that your** son ?
 # VOUS (plural you)
 **Vous allez** au travail ? = **Are you going** to work?
 
+### Difference between ce & ces
+Ce means "this" and "ces" means these only when ce/ces are articles before a noun.
+**"Alice et Paul, ce sont vos fils ?"**
+Here "ce" is a pronoun before the verb "être". This is --> c'est, these are --> ce sont
+
+
 ### ARTICLES
 Singular masculine: du (de l’)
 Singular Feminine: de la (de l’)
