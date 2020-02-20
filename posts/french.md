@@ -7,63 +7,65 @@ layout: layouts/post.njk
 ---
 <a href="https://grammar.collinsdictionary.com/us/french-easy-learning/the-partitive-article-du-de-la-de-l-and-des"> french grammar articles</a>
 ## NEGATIVES
-Je <b>ne suis pas</b> manger. = I <b>am not</b> eating.
-Je <b>n'ai pas</b> quatorze ans. = I <b>am not</b> 14 years old.
-Julia <b>n'est pas</b> blonde. = Julia <b>isn't</b> blonde.
-<b>Je ne vais pas</b> bien. = <b>I'm not</b> doing well.
-<b>Ce n'est pas</b> important. = <b>It's not</b> important.
-<b>Ce n'est pas</b> dangereux. = <b>It is not</b> dangerous.
+Je **ne suis pas** manger. = I **am not** eating.
+Je **n'ai pas** quatorze ans. = I **am not** 14 years old.
+Julia **n'est pas** blonde. = Julia **isn't** blonde.
+**Je ne vais pas** bien. = **I'm not** doing well.
+**Ce n'est pas** important. = **It's not** important.
+**Ce n'est pas** dangereux. = **It is not** dangerous.
 
 
 
 
 ## WANT
-Je veux <b>parler</b> anglais. = I want to <b>speak</b> English.
-Tu veux <b>marcher</b> avec moi ? = Do you want to <b>walk</b> with me ?
+Je veux **parler** anglais. = I want to **speak** English.
+Tu veux **marcher** avec moi ? = Do you want to **walk** with me ?
 
 
 ## COME(S) FROM
-Cette etudiante <b>vient</b> du Bresil. = This student <b>comes from</b> Brazil.
+Cette etudiante **vient** du Bresil. = This student **comes from** Brazil.
 
-Je <b>viens</b> du Bresil. = I <b>come from</b> Brazil.
-Tu <b>viens</b> d'Angleterre ? (Venez-vous d'Angleterre ?)= Do you <b>come from</b> England ?
+Je **viens** du Bresil. = I **come from** Brazil.
+Tu **viens** d'Angleterre ? (Venez-vous d'Angleterre ?)= Do you **come from** England ?
 
-<b>Venez-vous</b> d'Italie. = You come from Italy. 
-<b>Nous venons</b> d'Italie.= <b>We come from</b> Italy.
-Elle <b>vient</b> d'Italie. = She <b>comes from</b> Italy.
-<b>Elles viennent</b> de France. = <b>They come</b> from France.
-Alice <b>vient</b> des États-Unis. = Alice <b>comes from</b> the United States.
+**Venez-vous** d'Italie. = **You come** from Italy. 
+**Nous venons** d'Italie.= **We come from** Italy.
+Elle **vient** d'Italie. = She **comes from** Italy.
+**Elles viennent** de France. = **They come** from France.
+Alice **vient** des États-Unis. = Alice **comes from** the United States.
 
 # FAR FROM
-C'est <b>loins de</b> mon hotel = It's <b>far from</b> my hotel.
+C'est **loins de** mon hotel = It's **far from** my hotel.
 
 # AM GOING
-Je <b>vais au</b> zoo = I <b>am going to the</b> zoo.
+Je **vais au** zoo = I **am going to the** zoo.
 
 # WE ARE GOING / WE GO
-<b>Nous allons</b> l'aeroport. = <b>We are going</b> to the airport.
-<b>Nous allons au</b> travail en bus. = <b>We go to</b> work by bus.
+**Nous allons** l'aeroport. = **We are going** to the airport.
+**Nous allons au** travail en bus. = **We go to** work by bus.
 
 # HAVE TO GO TO
-I<b> have to go to</b> the hotel. = Je <b>dois aller à</b> l'hôtel.
+I **have to go to** the hotel. = Je **dois aller à** l'hôtel.
 
 # CLOSE BY/NEAR BY
-Je veux habiter <b>près</b> du métro. = I want to live <b>close by</b> the subway,
+Je veux habiter **près** du métro. = I want to live **close by** the subway,
 
 # CLOSE TO
-<b>près de</b> l'école = <b>close to</b> the school
+**près de** l'école = **close to** the school
 
+# IS THAT YOUR
+Alice et Paul, **ce sont vos** fils ? = Alice and Paul, **Is that your** son ?
 
 ### ARTICLES
 Singular masculine: du (de l’)
 Singular Feminine: de la (de l’)
 
 ## TIME
-J'étudie de <b>huit à onze</b>. = I study from <b>8 to 11</b>.
+J'étudie de **huit à onze**. = I study from **8 to 11**.
 
 ## NUMBERS
-<b>J'ai treize ans. = I am 13 years old.
-Il a onze ans. = He is 11 years old.</b>
+**J'ai treize ans. = I am 13 years old.
+Il a onze ans. = He is 11 years old.**
 
 ## DIRECTION
 Je vais à gauche. = I'm going left.
@@ -75,13 +77,13 @@ Tu dois tourner à droite. = You have to turn left.
 
 
 ## SPATIAL
-<b>devant</b> la voiture = <b>in front of</b> the car
-Je suis <b>devant</b> l'hôtel. = I am <b>in front of</b> the hotel.
+**devant** la voiture = **in front of** the car
+Je suis **devant** l'hôtel. = I am **in front of** the hotel.
 
 
 
 ## OTHER
-Le fromage est <b>en ville.</b> = The cheese is <b>in the city.</b>
+Le fromage est **en ville.** = The cheese is **in the city.**
 Nous voulons visiter l'eglise de cette petit ville. = We want to visit the church in this small city.
 C'est loin d'ici. = It's far from here.
 Tu peux travailler ici ? = Can you work here ?
