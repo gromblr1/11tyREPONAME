@@ -58,16 +58,20 @@ Paul et Marie, **ce sont vos** filles ? = Paul and Marie, are these your daughte
 
 ## VOUS (plural you)
 **Vous allez** au travail ? = **Are you going** to work?  
-**Vous allez** à la boulangerie tous les jours ? = **Do you go** to the bakery every day ?
-**Vous achetez** des oranges ? = **Do you buy** oranges ?
-**Vous prenez** le petit déjeuner ? = **Are you having** breakfast ?
-
+**Vous allez** à la boulangerie tous les jours ? = **Do you go** to the bakery every day ?  
+**Vous achetez** des oranges ? = **Do you buy** oranges ?  
+**Vous prenez** le petit déjeuner ? = **Are you having** breakfast ?  
+Anna et Martin, **vous travaillez** ? = Anna and Martin, **do you work** ?  
+ALice et Paul, **vous parlez** anglais ? = Alice and Paul, **do you speak** English?  
 
 ## Vous voulez (formal "Do you want)
 Paul et Marie, **vous voulez** des pommes ? = Paul and Marie, **do you want** some apples ?  
 
 ## Vous etes (plural you are)
 Alice et Paul, **vous êtes** anglais ? = ALice and Paul, **are you** English ?
+
+## Votre and Vos
+votre = YOUR (plural people) vos = YOUR (plural objects)
 
 ## -ent
 **Les Français prennent** un café tous les jours. = **The French have** coffee every day.
