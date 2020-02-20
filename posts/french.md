@@ -59,6 +59,7 @@ Paul et Marie, **ce sont vos** filles ? = Paul and Marie, are these your daughte
 ## Avez-vous
 **Avez-vous** une tele ? = **Do you have** a TV ?
 **Allez-vous** au cafe ? = **Are you going** to the cafe ?   
+**Lisez-vous** des livres ? =  **Do you read** books ?
 
 ## VOUS (plural you)
 **Vous allez** au travail ? = **Are you going** to work?  
@@ -85,6 +86,7 @@ Marc and Julia, **c'est votre** fils ? = Marc and Julia, **is this your** son ?
 
 ## Notre (plural OUR people) and Nos (plural OUR objects)
 **nos amies** Charlotte et Alice = **our friends** Charlotte and Alice  
+**nos amis** JUlia et Louis = **our friends** Julia and Louis
 notre amie = our friend  
 mon ami Louis - our friend Louis  
 
