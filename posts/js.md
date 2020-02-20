@@ -53,3 +53,15 @@ It is conventional in Ruby to have '?' at the end of the method if that method r
 
 #### Is age greater than or equal to 23 and name is 'Bob' OR 'Jill' ?
 > age >= 23 && (name == 'Bob' || name == 'Jill')
+
+#### Name is not Bob
+> ! (name == 'Bob')  
+
+### IF / ELSE
+> def check_sign(number)  
+   if number > 0  
+     "#{number} is positive"  
+   else  
+     "#{number} is negative"  
+   end          
+end
