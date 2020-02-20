@@ -55,6 +55,9 @@ Je veux habiter **près** du métro. = I want to live **close by** the subway,
 # ARE THESE  YOUR
 Alice et Paul, **ce sont vos** fils ? = Alice and Paul, **Is that your** son ?
 
+# VOUS (plural you)
+**Vous allez** au travail ? = **Are you going** to work?
+
 ### ARTICLES
 Singular masculine: du (de l’)
 Singular Feminine: de la (de l’)
