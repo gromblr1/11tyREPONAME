@@ -15,7 +15,7 @@ Julia **n'est pas** blonde. = Julia **isn't** blonde.
 **Ce n'est pas** important. = **It's not** important.  
 **Ce n'est pas** dangereux. = **It is not** dangerous.  
 
-testos
+testos VEST PRANCHHHHHHHH
 ## WANT
 Je veux **parler** anglais. = I want to **speak** English.  
 Tu veux **marcher** avec moi ? = Do you want to **walk** with me ?  
