@@ -32,12 +32,19 @@ It is conventional in Ruby to have '?' at the end of the method if that method r
 ### Replacing substring (all occurences )
 > "I should look into your problem when I get time".gsub('I','We')
 
-### Replace all vowels in string with the number 1
+### Replace all vowels in string with the number 1 (REGEX)
 > 'RubyMonk'.gsub(/[aeiou]/,'1')  
 > output: **R1byM1nk**
 
 
-### Replace all capital letters in string with the number 0
+### Replace all capital letters in string with the number 0 (REGEX)
 > 'RubyMonk Is Pretty Brilliant'.gsub(/[RMIPB]/, '0')  
 > output: **0uby0onk 0s 0retty 0rilliant**
 
+### Finding chars in a string (REGEX) (used when you don't know what you're looking for)
+> 'RubyMonk Is Pretty Brilliant'.match(/ ./)  
+> output:  **I**
+
+### Boolean expressions
+> name == "Bob"  
+> age <= 35  
