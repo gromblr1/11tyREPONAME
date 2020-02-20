@@ -33,38 +33,38 @@ Elle **vient** d'Italie. = She **comes from** Italy.
 **Elles viennent** de France. = **They come** from France.
 Alice **vient** des États-Unis. = Alice **comes from** the United States.
 
-# FAR FROM
+## FAR FROM
 C'est **loins de** mon hotel = It's **far from** my hotel.
 
-# AM GOING
+## AM GOING
 Je **vais au** zoo = I **am going to the** zoo.
 
-# WE ARE GOING / WE GO
+## WE ARE GOING / WE GO
 **Nous allons** l'aeroport. = **We are going** to the airport.
 **Nous allons au** travail en bus. = **We go to** work by bus.
 
-# HAVE TO GO TO
+## HAVE TO GO TO
 I **have to go to** the hotel. = Je **dois aller à** l'hôtel.
 
-# CLOSE BY/NEAR BY
+## CLOSE BY/NEAR BY
 Je veux habiter **près** du métro. = I want to live **close by** the subway,
 
-# CLOSE TO
+## CLOSE TO
 **près de** l'école = **close to** the school
 
-# ARE THESE  YOUR
+## ARE THESE  YOUR
 Alice et Paul, **ce sont vos** fils ? = Alice and Paul, **Is that your** son ?
 
-# VOUS (plural you)
+## VOUS (plural you)
 **Vous allez** au travail ? = **Are you going** to work?
 
-### Difference between ce & ces
+## Difference between ce & ces
 Ce means "this" and "ces" means these only when ce/ces are articles before a noun.
 **"Alice et Paul, ce sont vos fils ?"**
 Here "ce" is a pronoun before the verb "être". This is --> c'est, these are --> ce sont
 
 
-### ARTICLES
+## ARTICLES
 Singular masculine: du (de l’)
 Singular Feminine: de la (de l’)
 
