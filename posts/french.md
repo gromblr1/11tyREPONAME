@@ -79,9 +79,9 @@ Paul et Marie, **vous voulez** des pommes ? = Paul and Marie, **do you want** so
 ## Vous etes (plural you are)
 Alice et Paul, **vous êtes** anglais ? = ALice and Paul, **are you** English ?
 
-## Votre (plural YOUR people) and Vos (plural YOUR objects)
+## Votre (plural YOUR to a singular object) and Vos (plural YOUR to many objects)
+Alice et Paul, c'est **votre** fille ? = Alice and Paul, is this **your** daughter ?  
 Anna et Martin, **ce sont vos** amis ? = Anna and Martin, **are these your** friends?  
-
 
 **J'ai votre** télé. = **I have your** TV.  
 Marc and Julia, **c'est votre** fils ? = Marc and Julia, **is this your** son ?
@@ -90,6 +90,7 @@ Marc and Julia, **c'est votre** fils ? = Marc and Julia, **is this your** son ?
 **nos amies** Charlotte et Alice = **our friends** Charlotte and Alice  
 **nos amis** JUlia et Louis = **our friends** Julia and Louis
 notre amie = our friend  
+Alice est **notre** amie. = Alice is **our** friend.  
 mon ami Louis - our friend Louis  
 
 ## vont
