@@ -59,7 +59,9 @@ Paul et Marie, **ce sont vos** filles ? = Paul and Marie, are these your daughte
 ## Avez-vous
 **Avez-vous** une tele ? = **Do you have** a TV ?
 **Allez-vous** au cafe ? = **Are you going** to the cafe ?   
-**Lisez-vous** des livres ? =  **Do you read** books ?
+**Lisez-vous** des livres ? =  **Do you read** books ?  
+**Vous prenez** le dessert ? = **Are you having** dessert ?
+
 
 ## VOUS (plural you)
 **Vous allez** au travail ? = **Are you going** to work?  
@@ -81,7 +83,7 @@ Alice et Paul, **vous êtes** anglais ? = ALice and Paul, **are you** English ?
 Anna et Martin, **ce sont vos** amis ? = Anna and Martin, **are these your** friends?  
 
 
-**J'ai votre** télé. = **I have your** TV.
+**J'ai votre** télé. = **I have your** TV.  
 Marc and Julia, **c'est votre** fils ? = Marc and Julia, **is this your** son ?
 
 ## Notre (plural OUR people) and Nos (plural OUR objects)
@@ -90,6 +92,8 @@ Marc and Julia, **c'est votre** fils ? = Marc and Julia, **is this your** son ?
 notre amie = our friend  
 mon ami Louis - our friend Louis  
 
+## vont
+Les Français **vont** à la boulangerie tous les jours. = The French **go** to the bakery every day.
 
 ## son (his)
 
