@@ -37,10 +37,20 @@ Elle **va** au café. = She **is going** to the cafe.
 ## They are *verb*
 **Ils ecrivent** des messages. = **They are** writing messages.
 
+### They *verb*
+**Ils étudient** a l'universite. = **They study** at the university.
+
 ## -ent
 **Les Français prennent** un café tous les jours. = **The French have** coffee every day.  
 **Les Français aiment** les croissants. = **The French like** croissants.  
 **Ils aiment** marcher dans Paris. = **They like** walking in Paris.  
+
+## The *plural noun* are
+**Les lettres sont** sur la table. = **The letters are** on the table.
+
+## au
+Karine est au bureau aujourd'hui. = Karine is at the office today.
+Je suis au travail. = I am at work.
 
 ## COME(S) FROM
 Cette etudiante **vient** du Bresil. = This student **comes from** Brazil.  
@@ -150,6 +160,7 @@ Je suis **devant** l'hôtel. = I am **in front of** the hotel.
 
 
 ## OTHER
+Marie écrit un message.  = Marie is writing a message.
 Elle est mariee. = She is married.  
 une femme mariee = a married woman  
 un homme marie = a married man  
