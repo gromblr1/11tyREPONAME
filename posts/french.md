@@ -20,6 +20,16 @@ Julia **n'est pas** blonde. = Julia **isn't** blonde.
 Je veux **parler** anglais. = I want to **speak** English.  
 Tu veux **marcher** avec moi ? = Do you want to **walk** with me ?  
 
+## I am going
+**Je vais** à la station de métro. = **I am going** to the Subway station.
+
+## She is going
+Elle **va** au café. = She **is going** to the cafe.
+
+## Are you going
+**Tu vas** aux États-Unis ? = Are you going to the United States. 
+<sup>This is superscript.</sup>  
+<sub> This is subscript. </sub>
 
 ## COME(S) FROM
 Cette etudiante **vient** du Bresil. = This student **comes from** Brazil.  
