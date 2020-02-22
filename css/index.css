@@ -227,3 +227,6 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link:visited {
   color: #aaa;
 }
+
+testo {font-color:red}
+.testodot {font-color:blue}
