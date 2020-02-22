@@ -229,6 +229,7 @@ a[href].direct-link:focus:visited,
 }
 
 .note {
+    font-size: 10px;
     border:1px solid black;
     border-radius: 15px;
   background-color: #DBE6E0;
