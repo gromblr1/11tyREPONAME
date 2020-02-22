@@ -228,9 +228,10 @@ a[href].direct-link:focus:visited,
   color: #aaa;
 }
 
-.testodot {
+.note {
+    border:1px solid black;
     border-radius: 15px;
-  background-color: white;
+  background-color: #DBE6E0;
   padding: 0.625em; /* 16px 10px /16 */
 }
 
