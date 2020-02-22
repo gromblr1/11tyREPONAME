@@ -8,6 +8,12 @@
   --blue: #082840;
   --white: #fff;
 }
+
+sub{font-color: red
+  
+}
+
+
 * {
   box-sizing: border-box;
 }
