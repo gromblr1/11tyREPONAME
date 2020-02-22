@@ -228,5 +228,9 @@ a[href].direct-link:focus:visited,
   color: #aaa;
 }
 
-testo {font-color:red}
-.testodot {font-color:blue}
+.testodot {
+    border-radius: 15px;
+  background-color: white;
+  padding: 0.625em; /* 16px 10px /16 */
+}
+
