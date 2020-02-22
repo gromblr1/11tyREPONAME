@@ -27,7 +27,7 @@ Tu veux **marcher** avec moi ? = Do you want to **walk** with me ?
 Elle **va** au café. = She **is going** to the cafe.
 
 ## Are you going
-**Tu vas** aux États-Unis ? = Are you going to the United States. 
+**Tu vas** aux États-Unis ? = Are you going to the United States.  
 <sup>This is superscript.</sup>  
 <sub> This is subscript. </sub>
 
