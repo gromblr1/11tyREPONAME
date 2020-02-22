@@ -28,7 +28,11 @@ Elle **va** au café. = She **is going** to the cafe.
 
 ## Are you going
 **Tu vas** aux États-Unis ? = Are you going to the United States.  
-> <div class="note">*Note*: Instead of au, use **aux** when the place you are going to is plural. </div>
+<div class="note">*Note*: Instead of au, use **aux** when the place you are going to is plural. </div>
+
+## They are going
+**Ils vont** aux toilettes. = They are going tot he restroom.
+<div class="note">*Note*: Use **vont** with THEY. </div>
 
 ## COME(S) FROM
 Cette etudiante **vient** du Bresil. = This student **comes from** Brazil.  
