@@ -37,7 +37,10 @@ Elle **va** au café. = She **is going** to the cafe.
 ## They are *verb*
 **Ils ecrivent** des messages. = **They are** writing messages.
 
-<code> Testing what exactly this is because I want to know folks. </code>
+## -ent
+**Les Français prennent** un café tous les jours. = **The French have** coffee every day.  
+**Les Français aiment** les croissants. = **The French like** croissants.  
+**Ils aiment** marcher dans Paris. = **They like** walking in Paris.  
 
 ## COME(S) FROM
 Cette etudiante **vient** du Bresil. = This student **comes from** Brazil.  
@@ -114,11 +117,6 @@ Les Français **vont** à la boulangerie tous les jours. = The French **go** to 
 
 ## son (his)
 
-
-## -ent
-**Les Français prennent** un café tous les jours. = **The French have** coffee every day.
-
-
 ## Difference between ce & ces
 Ce means "this" and "ces" means these only when ce/ces are articles before a noun.  
 **"Alice et Paul, ce sont vos fils ?"**  
@@ -156,12 +154,10 @@ Elle est mariee. = She is married.
 une femme mariee = a married woman  
 un homme marie = a married man  
 Julia et Marie sont mariées. = Julia and Marie are married.  
-**Les Français aiment** les croissants. = **The French like** croissants.  
 Le fromage est **en ville.** = The cheese is **in the city.**  
 Nous voulons visiter l'eglise de cette petit ville. = We want to visit the church in this small city.  
 C'est loin d'ici. = It's far from here.  
 Tu peux travailler ici ? = Can you work here ?  
-Ils aiment marcher dans Paris. = They like walking in Paris.  
 Quel age as-tu ? = How old are you ?  
 Les quatre etudiants sont jeunes. = The 4 students are young.  
 C'est un immeuble très intéressant. = It's a very interesting building.  
