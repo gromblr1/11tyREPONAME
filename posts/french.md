@@ -34,6 +34,11 @@ Elle **va** au café. = She **is going** to the cafe.
 **Ils vont** aux toilettes. = They are going tot he restroom.
 <div class="note">*Note*: Use **vont** with THEY. </div>
 
+## They are *verb*
+**Ils ecrivent** des messages. = **They are** writing messages.
+
+<code> Testing what exactly this is because I want to know folks. </code>
+
 ## COME(S) FROM
 Cette etudiante **vient** du Bresil. = This student **comes from** Brazil.  
 
