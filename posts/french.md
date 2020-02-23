@@ -35,7 +35,9 @@ Elle **va** au café. = She **is going** to the cafe.
 <div class="note">*Note*: Use **vont** with THEY. </div>
 
 ## They are *verb*
-**Ils ecrivent** des messages. = **They are** writing messages.
+**Ils ecrivent** des messages. = **They are** writing messages.  
+**Elles ouvrent** les fenetres. = **They are opening** the windows
+<div class="note">*Note*: Add **-ent** to the end of a verb with THEY. </div>
 
 ### They *verb*
 **Ils étudient** a l'universite. = **They study** at the university.
@@ -49,8 +51,8 @@ Elle **va** au café. = She **is going** to the cafe.
 **Les lettres sont** sur la table. = **The letters are** on the table.
 
 ## au
-Karine est au bureau aujourd'hui. = Karine is at the office today.
-Je suis au travail. = I am at work.
+Karine est au bureau aujourd'hui. = Karine is at the office today.  
+Je suis au travail. = I am at work.  
 
 ## COME(S) FROM
 Cette etudiante **vient** du Bresil. = This student **comes from** Brazil.  
@@ -83,9 +85,16 @@ Je veux habiter **près** du métro. = I want to live **close by** the subway.
 ## CLOSE TO
 **près de** l'école = **close to** the school  
 
+## THERE ARE
+**Il y a** trois chiens = **There are** 3 dogs.
+
 ## ARE THESE  YOUR
 Alice et Paul, **ce sont vos** fils ? = Alice and Paul, **Is that your** son ?  
 Paul et Marie, **ce sont vos** filles ? = Paul and Marie, are these your daughters ?
+
+## C'est votre vs Ce sont vos
+Paul et Marie, c'est votre enfant ? = Paul et Marie, is this your kid ?
+Paul et Marie, ce sont vos enfantes ? = Are these your kids ?
 
 ## Avez-vous
 **Avez-vous** une tele ? = **Do you have** a TV ?
@@ -160,6 +169,7 @@ Je suis **devant** l'hôtel. = I am **in front of** the hotel.
 
 
 ## OTHER
+Vous aimez cette ville ? = Do you like this city ?
 Marie écrit un message.  = Marie is writing a message.
 Elle est mariee. = She is married.  
 une femme mariee = a married woman  
