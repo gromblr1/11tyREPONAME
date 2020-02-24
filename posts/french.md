@@ -132,6 +132,7 @@ Alice est **notre** amie. = Alice is **our** friend.
 **nos amis** JUlia et Louis = **our friends** Julia and Louis
 
 ## Verb-he/she/you
+**Habites-tu** aux États-Unis ? = **Do you live** in the United States ?
 **Travaillent-elles** dans une usine ? = **do they work** in a factory ?  
 **Parlent-ils** avec Paul ? = **Do they speak** with Paul ?
 Pourquoi **aimes-tu** voyager ? = Why **do you like** to travel ?  
