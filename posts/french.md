@@ -31,7 +31,8 @@ Elle **va** au café. = She **is going** to the cafe.
 <div class="note">*Note*: Instead of au, use **aux** when the place you are going to is plural. </div>
 
 ## They are going
-**Ils vont** aux toilettes. = They are going tot he restroom.
+**Ils vont** aux toilettes. = They are going tot he restroom.  
+Les Français **vont** à la boulangerie tous les jours. = The French **go** to the bakery every day.  
 <div class="note">*Note*: Use **vont** with THEY. </div>
 
 ## They are *verb*
@@ -88,13 +89,12 @@ Je veux habiter **près** du métro. = I want to live **close by** the subway.
 ## THERE ARE
 **Il y a** trois chiens = **There are** 3 dogs.
 
-## ARE THESE  YOUR
-Alice et Paul, **ce sont vos** fils ? = Alice and Paul, **Is that your** son ?  
-Paul et Marie, **ce sont vos** filles ? = Paul and Marie, are these your daughters ?
-
 ## C'est votre vs Ce sont vos
-Paul et Marie, c'est votre enfant ? = Paul et Marie, is this your kid ?
-Paul et Marie, ce sont vos enfantes ? = Are these your kids ?
+Paul et Marie, **c'est votre** enfant ? = Paul et Marie, **is this your** kid ?  
+Paul et Marie, **ce sont vos** enfantes ? = **Are these your** kids ?  
+Alice et Paul, **ce sont vos** fils ? = Alice and Paul, **Is that your** son ?  
+Paul et Marie, **ce sont vos** filles ? = Paul and Marie, are these your daughters ?  
+<div class=note"> Ce means "this" and "ces" means these only when ce/ces are articles before a noun.  </div>
 
 ## Avez-vous
 **Avez-vous** une tele ? = **Do you have** a TV ?
@@ -103,7 +103,7 @@ Paul et Marie, ce sont vos enfantes ? = Are these your kids ?
 **Vous prenez** le dessert ? = **Are you having** dessert ?
 
 
-## VOUS (plural you)
+## Vous (plural you)
 **Vous allez** au travail ? = **Are you going** to work?  
 **Vous allez** à la boulangerie tous les jours ? = **Do you go** to the bakery every day ?  
 **Vous achetez** des oranges ? = **Do you buy** oranges ?  
@@ -131,16 +131,13 @@ Alice est **notre** amie. = Alice is **our** friend.
 **nos amies** Charlotte et Alice = **our friends** Charlotte and Alice  
 **nos amis** JUlia et Louis = **our friends** Julia and Louis
 
-## vont
-Les Français **vont** à la boulangerie tous les jours. = The French **go** to the bakery every day.
-
-## son (his)
-
-## Difference between ce & ces
-Ce means "this" and "ces" means these only when ce/ces are articles before a noun.  
-**"Alice et Paul, ce sont vos fils ?"**  
-Here "ce" is a pronoun before the verb "être". This is --> c'est, these are --> ce sont  
-
+## Verb-he/she/you
+**Travaillent-elles** dans une usine ? = **do they work** in a factory ?  
+Pourquoi **aimes-tu** voyager ? = Why **do you like** to travel ?  
+**Aimes-tu** ce voyage ? = **Do you like** this trip ?  
+**Sont-ils** ensemble ? = **Are they** together ?  
+Quand **vas-tu** à Paris ? = When **are you going** to Paris ?  
+Quand **vas-tu** au cinéma ? = When **are you going** to the movies ?  
 
 ## ARTICLES
 Singular masculine: du (de l’)  
