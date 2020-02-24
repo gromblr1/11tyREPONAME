@@ -94,7 +94,7 @@ Paul et Marie, **c'est votre** enfant ? = Paul et Marie, **is this your** kid ?
 Paul et Marie, **ce sont vos** enfantes ? = **Are these your** kids ?  
 Alice et Paul, **ce sont vos** fils ? = Alice and Paul, **Is that your** son ?  
 Paul et Marie, **ce sont vos** filles ? = Paul and Marie, are these your daughters ?  
-<div class=note"> Ce means "this" and "ces" means these only when ce/ces are articles before a noun.  </div>
+<div class="note"> Ce means "this" and "ces" means these only when ce/ces are articles before a noun.  </div>
 
 ## Avez-vous
 **Avez-vous** une tele ? = **Do you have** a TV ?
@@ -133,6 +133,7 @@ Alice est **notre** amie. = Alice is **our** friend.
 
 ## Verb-he/she/you
 **Travaillent-elles** dans une usine ? = **do they work** in a factory ?  
+**Parlent-ils** avec Paul ? = **Do they speak** with Paul ?
 Pourquoi **aimes-tu** voyager ? = Why **do you like** to travel ?  
 **Aimes-tu** ce voyage ? = **Do you like** this trip ?  
 **Sont-ils** ensemble ? = **Are they** together ?  
@@ -166,8 +167,11 @@ Je suis **devant** l'hôtel. = I am **in front of** the hotel.
 
 
 ## OTHER
-Vous aimez cette ville ? = Do you like this city ?
-Marie écrit un message.  = Marie is writing a message.
+Avec qui est-ce que tu habites ? = Who do you live with ?
+Ont-ils des enfants ? = Do they have children ?
+As-tu un problème ? = Do you have a problem?  
+Vous aimez cette ville ? = Do you like this city ?  
+Marie écrit un message.  = Marie is writing a message.  
 Elle est mariee. = She is married.  
 une femme mariee = a married woman  
 un homme marie = a married man  
