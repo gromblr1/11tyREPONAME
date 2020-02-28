@@ -20,35 +20,43 @@ Julia **n'est pas** blonde. = Julia **isn't** blonde.
 Je veux **parler** anglais. = I want to **speak** English.  
 Tu veux **marcher** avec moi ? = Do you want to **walk** with me ?  
 
-## I am going
+## I AM HAVING
+**Je prends** un sandwich. = **I am having** a sandwich.
+
+## I WOULD LIKE
+**Je voudrais** un verre de vin. = **I would like** a glass of wine.
+
+## I AM GOING
 **Je vais** à la station de métro. = **I am going** to the Subway station.
 
-## She is going
+## SHE IS GOING
 Elle **va** au café. = She **is going** to the cafe.
 
-## Are you going
+## ARE YOU GOING
+Quand **vas-tu** a New York ? = When **are you going** to New York ?  
 **Tu vas** aux États-Unis ? = Are you going to the United States.  
 <div class="note">*Note*: Instead of au, use **aux** when the place you are going to is plural. </div>
 
-## They are going
+## THEY ARE GOING
 **Ils vont** aux toilettes. = They are going tot he restroom.  
 Les Français **vont** à la boulangerie tous les jours. = The French **go** to the bakery every day.  
 <div class="note">*Note*: Use **vont** with THEY. </div>
 
-## They are *verb*
+## THEY ARE *verb*
 **Ils ecrivent** des messages. = **They are** writing messages.  
 **Elles ouvrent** les fenetres. = **They are opening** the windows
 <div class="note">*Note*: Add **-ent** to the end of a verb with THEY. </div>
 
-### They *verb*
+### THEY *verb*
 **Ils étudient** a l'universite. = **They study** at the university.
 
 ## -ent
 **Les Français prennent** un café tous les jours. = **The French have** coffee every day.  
 **Les Français aiment** les croissants. = **The French like** croissants.  
 **Ils aiment** marcher dans Paris. = **They like** walking in Paris.  
+**Les professeurs habitent** ici. = **The professors live** here.
 
-## The *plural noun* are
+## THE *plural noun* ARE
 **Les lettres sont** sur la table. = **The letters are** on the table.
 
 ## au
@@ -89,7 +97,36 @@ Je veux habiter **près** du métro. = I want to live **close by** the subway.
 ## THERE ARE
 **Il y a** trois chiens = **There are** 3 dogs.
 
+## THESE
+**Ce pantalon est** cher. = **These pants are** expensive.
+**Ces routes sont** dangereuses. = **These roads are** dangerous.
+
+## ce VS cette
+Pourquoi aimes-tu **ce pays**? = Why do you like **this country** ?
+Pourquoi aimes-tu **cette ville** ? = Why do you like **this city** ?
+Où es-tu **cette semaine** ? = Where are you **this week** ? 
+
+
+## POSSSESSIVES - tes/ton/sa/son/ma/mon
+**Tes parents sont** ici. = **Your parents are** here.  
+C'est loin de **mon hôtel.** = It's far from **my hotel.**  
+Paul es **son pere.** = Paul and **his father.**  
+**Ma femme** sappelle Alice. = **My wife's** name is ALice.  
+Habites-tu avec **ta famille** ? = Do you live with **your family** ?
+
+## sont-ils > ARE THEY
+Ou **sont-ils** maintenant ? = Where **are they** now ?  
+
+## ils ont > they have
+**Ils ont** un cheval. = **They have** a horse.
+
+## ont-ils
+Pourquoi **ont-ils** un probleme ? = Why **do they have** a problem ?  
+**Ont-ils** une voiture ? = **Do they have** a car ?  
+**Ont-ils** des enfants ? = **Do they** have children ? 
+
 ## C'est votre vs Ce sont vos
+Habitez-vous avec **vos enfants** ? = Do you live with **your kids** ?  
 Paul et Marie, **c'est votre** enfant ? = Paul et Marie, **is this your** kid ?  
 Paul et Marie, **ce sont vos** enfantes ? = **Are these your** kids ?  
 Alice et Paul, **ce sont vos** fils ? = Alice and Paul, **Is that your** son ?  
@@ -102,6 +139,8 @@ Paul et Marie, **ce sont vos** filles ? = Paul and Marie, are these your daughte
 **Lisez-vous** des livres ? =  **Do you read** books ?  
 **Vous prenez** le dessert ? = **Are you having** dessert ?
 
+## WE verb+verb
+**Nous voulons lire** un livre. = **We want to read** a book.  
 
 ## Vous (plural you)
 **Vous allez** au travail ? = **Are you going** to work?  
@@ -123,7 +162,9 @@ Alice et Paul, **vous êtes** anglais ? = ALice and Paul, **are you** English ?
 Alice et Paul, c'est **votre** fille ? = Alice and Paul, is this **your** daughter ?  
 Anna et Martin, **ce sont vos** amis ? = Anna and Martin, **are these your** friends?  
 **J'ai votre** télé. = **I have your** TV.  
-Marc and Julia, **c'est votre** fils ? = Marc and Julia, **is this your** son ?
+Marc and Julia, **c'est votre** fils ? = Marc and Julia, **is this your** son ?  
+Habitez-vous avec **vos enfants** ? = Do you live with **your children?**
+<div class="note">Note: It's not correct to use 'tu' and 'vos' together: you can either say "Habites-tu avec tes enfants" or "Habitez-vous avec vos enfants". </div>
 
 ## Notre (plural OUR to a singular object) and Nos (plural OUR to many objects)
 notre amie = our friend  
@@ -131,15 +172,22 @@ Alice est **notre** amie. = Alice is **our** friend.
 **nos amies** Charlotte et Alice = **our friends** Charlotte and Alice  
 **nos amis** JUlia et Louis = **our friends** Julia and Louis
 
-## Verb-he/she/you
-**Habites-tu** aux États-Unis ? = **Do you live** in the United States ?
+## Verb-they/he/she/you
+**Habites-tu** aux États-Unis ? = **Do you live** in the United States ?  
 **Travaillent-elles** dans une usine ? = **do they work** in a factory ?  
-**Parlent-ils** avec Paul ? = **Do they speak** with Paul ?
+Où **travaillent-elles** ? = Where **do they work** ? 
+Quand **travaillez-vous** ? = When **do you work** ?  
+**Parlent-ils** avec Paul ? = **Do they speak** with Paul ?  
+Avec qui **parlent-ils** ? = Who **are they speaking** with ?  
 Pourquoi **aimes-tu** voyager ? = Why **do you like** to travel ?  
 **Aimes-tu** ce voyage ? = **Do you like** this trip ?  
 **Sont-ils** ensemble ? = **Are they** together ?  
 Quand **vas-tu** à Paris ? = When **are you going** to Paris ?  
 Quand **vas-tu** au cinéma ? = When **are you going** to the movies ?  
+**Prenez-vous** souvent le train ? = **Do you** often **take** the train ?  
+**Prends-tu** souvent le train ? = **Do you** often **take** the train ?  
+**Prenez-vous** le bus ensemble ? = **Do you take** the bus together ?  
+<div class="note">Note: Ensemble implies more than one person so you must use "vous". </div>
 
 ## ARTICLES
 Singular masculine: du (de l’)  
@@ -168,8 +216,14 @@ Je suis **devant** l'hôtel. = I am **in front of** the hotel.
 
 
 ## OTHER
-Avec qui est-ce que tu habites ? = Who do you live with ?
-Ont-ils des enfants ? = Do they have children ?
+C'est un voyage tres interessant. = This is a very interesting trip.  
+Les étudiants étudient. = The students are studying.  
+Nous sommes a la banque. = We are at the bank.  
+C'est loin d'ici ? = Is it far from here ?  
+Combien ca coute ? = How much does it cost ?  
+Avec qui est-ce que tu habites ? = Who do you live with ?  
+Ont-ils des amis américains ? = Do they have American friends ?  
+Ont-ils des enfants ? = Do they have children ?  
 As-tu un problème ? = Do you have a problem?  
 Vous aimez cette ville ? = Do you like this city ?  
 Marie écrit un message.  = Marie is writing a message.  
