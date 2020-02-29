@@ -1,3 +1,25 @@
+module.exports = function(eleventyConfig) {
+  // Liquid Shortcode
+  eleventyConfig.addLiquidShortcode("user", function(firstName, lastName) { … });
+  
+  // Nunjucks Shortcode
+  eleventyConfig.addNunjucksShortcode("user", function(firstName, lastName) { … });
+  
+  // Handlebars Shortcode
+  eleventyConfig.addHandlebarsShortcode("user", function(firstName, lastName) { … });
+
+  // JavaScript Template Function (New in 0.7.0)
+  eleventyConfig.addJavaScriptFunction("user", function(firstName, lastName) { … });
+
+  // Universal Shortcodes are added to:
+  // * Liquid
+  // * Nunjucks
+  // * Handlebars
+  // * JavaScript (New in 0.7.0)
+  eleventyConfig.addShortcode("user", function(firstName, lastName) { … });
+};
+
+
 const { DateTime } = require("luxon");
 const fs = require("fs");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
