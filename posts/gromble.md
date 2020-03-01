@@ -5,9 +5,6 @@ date: 2020-02-17
 tags: ['gromble', 'aahhh', 'maxx', 'aeon', 'liquid']
 layout: layouts/post.njk
 ---
-{% user firstName, lastName %}
-
-{{{ user firstName lastName }}}
 
 
 
